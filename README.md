@@ -1,1 +1,1 @@
-# cricket-database-syytem
+# cricket-database-system
